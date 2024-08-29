@@ -215,7 +215,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "who am I ?????/";
+    content: "who I Am ?";
 }
 .about .about-content .left{
     width: 45%;
